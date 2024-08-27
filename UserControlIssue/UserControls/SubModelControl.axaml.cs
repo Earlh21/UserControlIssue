@@ -4,9 +4,9 @@ using Avalonia.Markup.Xaml;
 
 namespace UserControlIssue.UserControls
 {
-	public partial class TestControl : UserControl
+	public partial class SubModelControl : UserControl
 	{
-		public TestControl()
+		public SubModelControl()
 		{
 			InitializeComponent();
 		}
